@@ -2034,10 +2034,10 @@ electron-to-chromium@^1.4.202:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.219.tgz#a7a672304b6aa4f376918d3f63a47f2c3906009a"
   integrity sha512-zoQJsXOUw0ZA0YxbjkmzBumAJRtr6je5JySuL/bAoFs0DuLiLJ+5FzRF7/ZayihxR2QcewlRZVm5QZdUhwjOgA==
 
-embedme@1.22.0:
-  version "1.22.0"
-  resolved "https://registry.yarnpkg.com/embedme/-/embedme-1.22.0.tgz#d197ca86eca1ade95b72bd033e900597ff2b47d5"
-  integrity sha512-WBQnZkgFc/egR+KeC+f382f76dwlLRU6+h2MwWkogYX8lqZeHoYm67pvk6TCTs99W+tC6IiRqUJySwfvclAvYQ==
+embedme@1.22.1:
+  version "1.22.1"
+  resolved "https://registry.yarnpkg.com/embedme/-/embedme-1.22.1.tgz#5464c67d490309aec658de43f5e49ad88674bdc2"
+  integrity sha512-wHLuAOI9XoCAQ322mbslIR7PQNgPGYCWrDlYw5C6fesakuhCzi6ce0BrLTZ/EEKgiHEUqcG9V3s7MGO0x1Zgig==
   dependencies:
     chalk "3.0.0"
     commander "5.1.0"
